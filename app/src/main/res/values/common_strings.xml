@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+
+    <!-- 对话框加载 -->
+    <string name="loading_message">努力加载中</string>
+    <string name="progressdlgtitle">请稍候</string>
+    <string name="nowisloading">努力加载中</string>
+    <string name="parse_json_err">很抱歉，您暂时无法查看内容</string>
+    <string name="prompt">温馨提示</string>
+
+
+    <string name="date_hour">小时前</string>
+    <string name="date_minute">分钟前</string>
+    <string name="just_now">刚刚</string>
+
+
+    <string name="monday">星期一 ( %1$s )</string>
+    <string name="tuesday">星期二 ( %1$s )</string>
+    <string name="wednesday">星期三 ( %1$s )</string>
+    <string name="thursday">星期四 ( %1$s )</string>
+    <string name="friday">星期五 ( %1$s )</string>
+    <string name="saturday">星期六 ( %1$s )</string>
+    <string name="sunday">星期日 ( %1$s )</string>
+    <string name="today">今天</string>
+    <string name="yesterday">昨天</string>
+
+    <string name="monday2">周一 </string>
+    <string name="tuesday2">周二 </string>
+    <string name="wednesday2">周三 </string>
+    <string name="thursday2">周四 </string>
+    <string name="friday2">周五 </string>
+    <string name="saturday2">周六 </string>
+    <string name="sunday2">周天 </string>
+
+    <string name="discover_native_area_name_end_value_shi">市</string>
+    <string name="discover_native_area_name_end_value_xian">县</string>
+    <string name="subscribe_ten_thousand">万</string>
+    <!-- 网络相关 -->
+    <string name="net_check_connect">请检查网络是否连接</string>
+
+    <!-- 下载 -->
+    <string name="updating">升级</string>
+    <string name="exit">退出</string>
+    <string name="findnewversion">新版本 V%1$s</string>
+    <string name="force_download">强制升级</string>
+    <string name="exitappwhendownloading">正在下载更新文件，现在中断将无法保留已下载的数据，点击“确定”中断下载，点击“取消”继续下载。</string>
+    <string name="updateing">更新文件正在下载中</string>
+    <string name="newestversion">您使用的已经是最新版本啦</string>
+
+
+    <string name="pull_to_refresh_pull_label">上拉加载更多</string>
+    <string name="pull_to_refresh_refreshing_label_loading">正在加载中...</string>
+    <string name="pull_to_refresh_release_label">释放加载更多</string>
+    <string name="pull_to_refresh_refreshing_label">下拉加载更多</string>
+
+    <string name="discover_native_area_no_value">无法定位你的位置</string>
+    <string name="no_data">没有数据哦</string>
+</resources>
